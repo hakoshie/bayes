@@ -1,0 +1,1 @@
+Udemy【PythonとStanで学ぶ】仕組みが分かるベイズ統計学入門のpystan3実装など
